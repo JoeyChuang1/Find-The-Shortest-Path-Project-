@@ -3,5 +3,7 @@ Implemented an A pathfinding algorithm in Python to efficiently navigate between
 Furthermore, I optimized the performance of the algorithm by an average of 71%. This improvement was achieved through a combination of techniques:
 
 Multiprocessing: By distributing computations across multiple cores, the algorithm can explore a larger search space concurrently, accelerating pathfinding.
+
 heurispy library integration: This library provides pre-defined heuristic functions optimized for various pathfinding scenarios, ensuring efficient exploration strategies.
+
 Pygame visualization: While Pygame is primarily used for game development, it can also be leveraged for efficient visualization of the pathfinding process, aiding in debugging and understanding.
