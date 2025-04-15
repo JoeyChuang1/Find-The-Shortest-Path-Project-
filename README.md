@@ -21,3 +21,16 @@ A video demonstration showcasing the functionality is available [here](#).
    ```bash
    git clone https://github.com/JoeyChuang1/Find-The-Shortest-Path-Project-.git
    cd Find-The-Shortest-Path-Project-
+
+2. **Install dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+
+## 🧪 Usage
+
+To run the pathfinding visualization:
+```bash
+   python main.py
+
+Follow the on-screen instructions to set the start and end points, and observe the algorithm in action.
