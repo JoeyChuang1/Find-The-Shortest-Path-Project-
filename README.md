@@ -63,3 +63,14 @@ Follow the on-screen instructions to set the start and end points, and observe t
 Install all dependencies using:
   ```bash
     pip install -r requirements.txt
+
+## 📈 Performance Optimization Details
+The algorithm's performance was enhanced through:
+
+Multiprocessing: By distributing computations across multiple cores, the algorithm explores a larger search space concurrently, accelerating pathfinding.
+
+Heurispy Integration: Utilizes optimized heuristic functions tailored for various pathfinding scenarios, ensuring efficient exploration strategies.
+
+These optimizations collectively contributed to a 71% improvement in performance.
+
+
