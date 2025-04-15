@@ -2,6 +2,8 @@
 
 This project implements an efficient A* pathfinding algorithm in Python to navigate between any two points on a grid-based map. It leverages heuristic functions to prioritize promising paths, leading to faster route discovery. A video demonstration showcases the functionality.
 
+Demo Here: https://www.youtube.com/watch?v=_d5AuspKe3o
+
 ## 🚀 Features
 
 - **A* Pathfinding Algorithm**: Utilizes the A* algorithm for optimal pathfinding on grid-based maps.
