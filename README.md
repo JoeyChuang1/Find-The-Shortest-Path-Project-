@@ -31,7 +31,7 @@ A video demonstration showcasing the functionality is available [here](#).
 
 To run the pathfinding visualization:
     ```bash
-   python main.py
+    python main.py
   
 
 Follow the on-screen instructions to set the start and end points, and observe the algorithm in action.
