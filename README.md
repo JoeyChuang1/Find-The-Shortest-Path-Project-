@@ -30,6 +30,7 @@ A video demonstration showcasing the functionality is available [here](#).
 ## 🧪 Usage
 
 To run the pathfinding visualization:
+
     ```bash
     python main.py
   
