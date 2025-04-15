@@ -1,9 +1,23 @@
-Implemented an A pathfinding algorithm in Python to efficiently navigate between any two points on a grid-based map. The algorithm leverages heuristic functions to prioritize promising paths, leading to faster route discovery. A video demonstration showcases the functionality.
+# Find The Shortest Path Project
 
-Furthermore, I optimized the performance of the algorithm by an average of 71%. This improvement was achieved through a combination of techniques:
+This project implements an efficient A* pathfinding algorithm in Python to navigate between any two points on a grid-based map. It leverages heuristic functions to prioritize promising paths, leading to faster route discovery. A video demonstration showcases the functionality.
 
-Multiprocessing: By distributing computations across multiple cores, the algorithm can explore a larger search space concurrently, accelerating pathfinding.
+## 🚀 Features
 
-heurispy library integration: This library provides pre-defined heuristic functions optimized for various pathfinding scenarios, ensuring efficient exploration strategies.
+- **A* Pathfinding Algorithm**: Utilizes the A* algorithm for optimal pathfinding on grid-based maps.
+- **Performance Optimization**: Achieved an average performance improvement of 71% through:
+  - **Multiprocessing**: Distributes computations across multiple cores to accelerate pathfinding.
+  - **Heurispy Library Integration**: Incorporates pre-defined heuristic functions optimized for various scenarios.
+- **Pygame Visualization**: Employs Pygame for efficient visualization of the pathfinding process, aiding in debugging and understanding.
 
-Pygame visualization: While Pygame is primarily used for game development, it can also be leveraged for efficient visualization of the pathfinding process, aiding in debugging and understanding.
+## 📹 Demonstration
+
+A video demonstration showcasing the functionality is available [here](#).
+
+## 🛠️ Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/JoeyChuang1/Find-The-Shortest-Path-Project-.git
+   cd Find-The-Shortest-Path-Project-
