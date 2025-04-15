@@ -36,3 +36,30 @@ To run the pathfinding visualization:
   
 
 Follow the on-screen instructions to set the start and end points, and observe the algorithm in action.
+
+## 📁 Project Structure
+
+    ```bash
+    Find-The-Shortest-Path-Project-/
+    ├── main.py                 # Entry point for the application
+    ├── pathfinding/
+    │   ├── a_star.py           # Implementation of the A* algorithm
+    │   ├── heuristics.py       # Heuristic functions utilizing heurispy
+    │   └── multiprocessing.py  # Multiprocessing utilities for performance
+    ├── visualization/
+    │   └── pygame_visual.py    # Pygame-based visualization components
+    ├── requirements.txt        # List of project dependencies
+    └── README.md               # Project documentation
+
+## 📚 Dependencies
+  Python 3.x
+
+  Pygame
+
+  Heurispy
+
+  Multiprocessing (standard Python library)
+
+Install all dependencies using:
+  ```bash
+    pip install -r requirements.txt
